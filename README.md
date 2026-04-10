@@ -7,8 +7,6 @@
 ### 🤖 AI Engineer | 🧠 Machine Learning Enthusiast | 💻 Computer Vision
 
 [![Portfolio](https://img.shields.io/badge/🌐Portfolio-black?style=for-the-badge)](https://frhaan05.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frhaan05/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furhikhan@gmail.com)
 
 ---
 
@@ -92,10 +90,10 @@ I'm **Muhammad Farhan Fahad**, AI Engineer with a strong interest in Generative 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge)](https://frhaan05.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-frhaan05-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frhaan05/)
-[![Email](https://img.shields.io/badge/Gmail-furhikhan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furhikhan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-frhaan05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frhaan05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/frhaan05/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:furhikhan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=black)](https://github.com/frhaan05)
+
 
 </div>
 
