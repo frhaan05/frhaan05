@@ -1,12 +1,12 @@
-<div align="center">
+<div align="right">
 
 <img src="https://github.com/frhaan05/frhaan05.github.io/blob/main/image/farhan.jpeg" width="150" style="border-radius: 50%;" alt="Muhammad Farhan Fahad"/>
 
-# Hi, I'm Muhammad Farhan Fahad 👋
+# Hi, I'm Muhammad Farhan Fahad
 
-### 🤖 AI Engineer | 🧠 Machine Learning Enthusiast | 💻 Computer Vision
+### AI Engineer | Machine Learning Enthusiast |  Computer Vision
 
-[![Portfolio](https://img.shields.io/badge/🌐Portfolio-black?style=for-the-badge)](https://frhaan05.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://frhaan05.github.io/)
 
 ---
 
@@ -90,9 +90,9 @@ I'm **Muhammad Farhan Fahad**, AI Engineer with a strong interest in Generative 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/frhaan05/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:furhikhan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=black)](https://github.com/frhaan05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frhaan05/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furhikhan@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-D14836?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/farhan_fahad/)
 
 
 </div>
