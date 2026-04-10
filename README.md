@@ -2,7 +2,7 @@
  <img src="https://github.com/frhaan05/frhaan05.github.io/blob/main/image/farhan.jpeg" width="150" style="border-radius: 50%;" alt="Muhammad Farhan Fahad"/>
 </div> 
 
-<div align="centre">
+<div align="right">
 
 # Hi, I'm Muhammad Farhan Fahad
 
