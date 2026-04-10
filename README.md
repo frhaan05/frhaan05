@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Farhan%20Fahad&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=75&descSize=18&descColor=a78bfa)
 
-<img align="right" src="https://github.com/frhaan05/frhaan05.github.io/blob/main/image/farhan.jpeg" width="160" style="border-radius:12px; margin:10px;"/>
 
 <br/>
 
