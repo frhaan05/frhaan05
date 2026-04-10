@@ -1,21 +1,23 @@
-<div align = "right">
- <img src="https://github.com/frhaan05/frhaan05.github.io/blob/main/image/farhan.jpeg" width="150" style="border-radius: 50%;" alt="Muhammad Farhan Fahad"/>
-</div> 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Farhan%20Fahad&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=75&descSize=18&descColor=a78bfa)
 
-<div align="center">
+<img align="right" src="https://github.com/frhaan05/frhaan05.github.io/blob/main/image/farhan.jpeg" width="160" style="border-radius:12px; margin:10px;"/>
 
-# Hi, I'm Muhammad Farhan Fahad
-### AI Engineer | Machine Learning Enthusiast | Computer Vision
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&width=500&lines=Hi+there!+I'm+Farhan+👋;AI+Engineer+%7C+ML+Enthusiast;Building+Intelligent+Systems+🤖;Computer+Vision+%7C+LLMs+%7C+RAG)](https://git.io/typing-svg)
 
-*"Building intelligent systems that connect innovation with real-world solutions."*
+<br/>
 
-</div>
+> *"Building intelligent systems that connect innovation with real-world solutions."*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://frhaan05.github.io/)
----
+<br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-7C3AED?style=for-the-badge)](https://frhaan05.github.io/)
+
+
+<br clear="right"/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer)
 ## 🙋‍♂️ About Me
 
 I'm **Muhammad Farhan Fahad**, AI Engineer with a strong interest in Generative AI and intelligent systems. Experienced in building AI applications such as chatbots and AI-powered solutions using Python and modern AI frameworks. Possess a solid understanding of LLM, RAG, vector databases, Agentic AI, AI Agents and prompt engineering. Also have foundational knowledge of Machine Learning, Deep Learning, and Computer Vision. Passionate about developing innovative AI solutions and applying advanced AI technologies to solve real-world problems.
