@@ -6,7 +6,7 @@
 
 ### 🤖 AI Engineer | 🧠 Machine Learning Enthusiast | 💻 Computer Vision
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-Click_Here-blue?style=for-the-badge)](https://frhaan05.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐Portfolio-black?style=for-the-badge)](https://frhaan05.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frhaan05/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furhikhan@gmail.com)
 
