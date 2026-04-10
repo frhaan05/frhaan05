@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="https://github.com/frhaan05/frhaan05.github.io/blob/main/image/farhan.jpeg?raw=true" width="140" style="border-radius:50%;"/>
 
 <br/>
 
