@@ -101,10 +101,3 @@ I'm **Muhammad Farhan Fahad**, AI Engineer with a strong interest in Generative 
 
 ---
 
-<div align="center">
-
-⭐ **If you like my work, consider giving a star to my repositories!** ⭐
-
-![Visitor Count](https://komarev.com/ghpvc/?username=frhaan05&color=blue&style=for-the-badge&label=Profile+Views)
-
-</div>
