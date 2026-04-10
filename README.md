@@ -2,16 +2,18 @@
  <img src="https://github.com/frhaan05/frhaan05.github.io/blob/main/image/farhan.jpeg" width="150" style="border-radius: 50%;" alt="Muhammad Farhan Fahad"/>
 </div> 
 
-<div align="centre">
+<div align="center">
 
 # Hi, I'm Muhammad Farhan Fahad
+### AI Engineer | Machine Learning Enthusiast | Computer Vision
 
-### AI Engineer | Machine Learning Enthusiast |  Computer Vision
 ---
+
 *"Building intelligent systems that connect innovation with real-world solutions."*
 
 </div>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://frhaan05.github.io/)
 ---
 
 ## 🙋‍♂️ About Me
