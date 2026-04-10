@@ -1,22 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Farhan%20Fahad&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=75&descSize=18&descColor=a78bfa)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Farhan%20Fahad&fontSize=40&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=68&descSize=16&descColor=d8b4fe)
 
-<img align="right" src="https://github.com/frhaan05/frhaan05.github.io/blob/main/image/farhan.jpeg" width="160" style="border-radius:12px; margin:10px;"/>
+<div align="center">
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&width=500&lines=Hi+there!+I'm+Farhan+👋;AI+Engineer+%7C+ML+Enthusiast;Building+Intelligent+Systems+🤖;Computer+Vision+%7C+LLMs+%7C+RAG)](https://git.io/typing-svg)
+<img src="https://github.com/frhaan05/frhaan05.github.io/blob/main/image/farhan.jpeg?raw=true" width="140" style="border-radius:50%;"/>
 
 <br/>
+
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Farhan+%F0%9F%91%8B;AI+Engineer+%7C+ML+Enthusiast;Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+LLMs+%7C+RAG" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
 
 > *"Building intelligent systems that connect innovation with real-world solutions."*
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7C3AED?style=for-the-badge)](https://frhaan05.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frhaan05/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furhikhan@gmail.com)
 
-<br clear="right"/>
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer)
 ## 🙋‍♂️ About Me
