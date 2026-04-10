@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Farhan+%F0%9F%91%8B;AI+Engineer+%7C+ML+Enthusiast;Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+LLMs+%7C+RAG" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Farhan;AI+Engineer+ML+Enthusiast;Building+Intelligent+Systems;Computer+Vision+RAG" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
