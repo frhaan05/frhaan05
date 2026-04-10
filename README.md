@@ -76,18 +76,6 @@ I'm **Muhammad Farhan Fahad**, AI Engineer with a strong interest in Generative 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frhaan05&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frhaan05&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frhaan05&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 🔥 Recent Focus
