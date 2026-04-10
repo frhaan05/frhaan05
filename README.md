@@ -96,7 +96,7 @@ I'm **Muhammad Farhan Fahad**, AI Engineer with a strong interest in Generative 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frhaan05/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furhikhan@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-D14836?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/farhan_fahad/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-00C853?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/farhan_fahad/)
 
 
 </div>
