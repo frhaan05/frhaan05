@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Farhan%20Fahad&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=75&descSize=18&descColor=a78bfa)
 
+<img align="right" src="https://github.com/frhaan05/frhaan05.github.io/blob/main/image/farhan.jpeg" width="160" style="border-radius:12px; margin:10px;"/>
+
 <br/>
 
-<img src="https://github.com/frhaan05/frhaan05.github.io/blob/main/image/farhan.jpeg" width="150" style="border-radius: 50%;" alt="Muhammad Farhan Fahad"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&width=500&lines=Hi+there!+I'm+Farhan+👋;AI+Engineer+%7C+ML+Enthusiast;Building+Intelligent+Systems+🤖;Computer+Vision+%7C+LLMs+%7C+RAG)](https://git.io/typing-svg)
 
 <br/>
@@ -11,8 +12,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-7C3AED?style=for-the-badge)](https://frhaan05.github.io/)
-
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7C3AED?style=for-the-badge)](https://frhaan05.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frhaan05/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furhikhan@gmail.com)
 
 <br clear="right"/>
 
