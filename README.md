@@ -7,7 +7,7 @@
 
 <a href="https://readme-typing-svg.herokuapp.com">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Farhan;AI+Engineer+%7C+ML+Enthusiast;Building+Intelligent+Systems;Focus+on+Computer+Vision+too!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Farhan;AI+Engineer+%7C+ML+Enthusiast;Building+Intelligent+Systems;Focus+on+Computer+Vision+too!" 
     alt="Typing SVG"
   />
 </a>
