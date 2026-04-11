@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Farhan%20Fahad&fontSize=40&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=68&descSize=16&descColor=d8b4fe)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111111&height=200&section=header&text=Muhammad%20Farhan%20Fahad&fontSize=40&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=68&descSize=16&descColor=d8b4fe)
 
 <div align="center">
 
