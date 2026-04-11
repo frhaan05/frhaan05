@@ -1,13 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000000,100:000000&height=200&section=header&text=Muhammad%20Farhan%20Fahad&fontSize=40&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=68&descSize=16&descColor=d8b4fe)
 
-<div align="Centre">
-
+<div align="center">
 
 <br/>
 
 <a href="https://readme-typing-svg.herokuapp.com">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Farhan;AI+Engineer+%7C+ML+Enthusiast;Building+Intelligent+Systems;Focus+on+Computer+Vision+too!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Farhan;AI+Engineer+%7C+ML+Enthusiast;Building+Intelligent+Systems;Focus+on+Computer+Vision+too!" 
     alt="Typing SVG" />
 </a>
 
@@ -15,13 +14,15 @@
 
 </div>
 
-<div align = left>
+<div align="left">
+
 > *"Building intelligent systems that connect innovation with real-world solutions."*
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge)](https://frhaan05.github.io/)
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://frhaan05.github.io/)
+
+</div>/div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000000,100:000000&height=80&section=footer)
 ## About Me
