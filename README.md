@@ -89,7 +89,7 @@ I'm **Muhammad Farhan Fahad**, AI Engineer with a strong interest in Generative 
 - **Agentic AI systems** & reasoning-driven tools
 - **Retrieval-Augmented Generation (RAG)** pipelines
 - **Large Language Models (LLMs)** fine-tuning & deployment
-- 
+ 
 ---
 
 ## Connect With Me
