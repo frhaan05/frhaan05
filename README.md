@@ -22,7 +22,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://frhaan05.github.io/)
 
-</div>/div>
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000000,100:000000&height=80&section=footer)
 ## About Me
