@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000000,100:000000&height=200&section=header&text=Muhammad%20Farhan%20Fahad&fontSize=40&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=68&descSize=16&descColor=d8b4fe)
 
-<div align="center">
+<div align="right">
 
 
 <br/>
@@ -22,7 +22,7 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000000,100:000000&height=80&section=footer)
 ## About Me
 
 I'm **Muhammad Farhan Fahad**, AI Engineer with a strong interest in Generative AI and intelligent systems. Experienced in building AI applications such as chatbots and AI-powered solutions using Python and modern AI frameworks. Possess a solid understanding of LLM, RAG, vector databases, Agentic AI, AI Agents and prompt engineering. Also have foundational knowledge of Machine Learning, Deep Learning, and Computer Vision. Passionate about developing innovative AI solutions and applying advanced AI technologies to solve real-world problems.
